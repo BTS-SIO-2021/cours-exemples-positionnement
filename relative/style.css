@@ -1,0 +1,35 @@
+p {
+    background-color: yellow;
+}
+
+.carre {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.vert {
+    background-color: green;
+}
+
+.relatif {
+    position : relative;
+}
+
+.haut {
+    top : 60px; /* Element est décalé de 60px vers le bas à partir de sa place d'origine */
+}
+
+.gauche {
+    left: 150px;
+}
+
+.droite {
+    right: 30px;
+}

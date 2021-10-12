@@ -1,0 +1,29 @@
+p {
+    text-align: justify;
+}
+
+.carre {
+    width: 75px;
+    height: 75px;
+    border : solid 2px black;
+}
+
+body, div, p {
+    margin: 0;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.vert {
+    background-color: green;
+}
+
+.fixed {
+    position : fixed;
+}
+
+.droite {
+    right: 0px;
+}
